@@ -21,6 +21,7 @@ import android.widget.ImageView;
 //test 013 remote
 //test 014 local
 //test 014 remote
+//test 015 remote
 
 public class MainActivity extends AppCompatActivity {
 
