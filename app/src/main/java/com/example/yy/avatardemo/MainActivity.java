@@ -11,7 +11,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 //my test 001
-//test 002
 
 public class MainActivity extends AppCompatActivity {
 
