@@ -13,6 +13,7 @@ import android.widget.ImageView;
 //my test 001
 //test 003
 //test 005
+//test 006 branch
 
 public class MainActivity extends AppCompatActivity {
 
