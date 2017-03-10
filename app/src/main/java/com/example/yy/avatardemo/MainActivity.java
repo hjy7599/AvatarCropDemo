@@ -18,9 +18,9 @@ import android.widget.ImageView;
 //test 009 loacl master
 //test 010 remote
 //test 011 remote
-//test 012 local master
 //test 013 remote
 //test 014 local
+//test 014 remote
 
 public class MainActivity extends AppCompatActivity {
 
