@@ -24,7 +24,7 @@ import android.widget.ImageView;
 //test 015 remote
 //test 016 remote
 //test 017 remote
-
+//test 019 remote
 public class MainActivity extends AppCompatActivity {
 
     private ImageView mMImg;
