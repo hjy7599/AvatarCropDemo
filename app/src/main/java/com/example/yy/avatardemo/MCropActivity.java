@@ -17,6 +17,8 @@ public class MCropActivity extends Activity{
     private Button mDone;
     private CropImageView mImage;
 
+    //test004
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
