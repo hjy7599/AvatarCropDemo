@@ -16,6 +16,10 @@ import android.widget.ImageView;
 //test 006 branch
 //test 007 local master
 //test 009 loacl master
+//test 007 local master
+//test 009 loacl master
+//test 007 branch
+//test 008 branch
 
 public class MainActivity extends AppCompatActivity {
 
